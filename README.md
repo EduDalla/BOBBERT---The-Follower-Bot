@@ -1,2 +1,2 @@
-# BOBBERT---The-Follower-Bot
-Conheça o Bobbert! O Bobbert foi um robô desenvolvido pelo primeiro grupo do ensino médio da FIAP a participar do NEXT(evento da FIAP exclusivo para a graduação) na parte de iniciação científica. 
+# BOBBERT - The Follower Bot
+Conheçam o Bobbert! Desenvolvi ele desde o começo do ano para apresentar para o NEXT(evento de tecnologia da FIAP). Tivemos inspiração do filme, "Gigantes de Aço" para criar esse robô, que anteriormente era utilizado para lutas de robô. Desde o começo do ano, eu e meu grupo da FIAP School reprogramamos ele para que possa imitar seus movimentos de forma 2D. Usamos como base a linguagem de programação Python e a biblioteca Opencv(Visão computacional). O robô tem como objetivo na comunidade a ajudar em carregamento de peso, auxiliar profissionais como bombeiros e militares em locais de risco.
