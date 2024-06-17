@@ -9,7 +9,7 @@ Para isso, utilizamos a linguagem de programação **Python** como base e a bibl
 O robô tem como objetivo de ajudar a comunidade em carregamento de peso, auxiliar bombeiros e militares em locais de risco.
 Todo seu carisma e interação foi totalmente inspirado do filme "Gigantes de Aço" e temos planos para melhorá-lo no futuro e deixá-lo ainda mais impolgante.
 
-Para conhecer mais sobre o Bobbert e ficar a par de novas novidades que estão por vir, siga o instagram dele!
+## Para ficar a par de todas atualizações e novidades siga nosso instagram!
 https://www.instagram.com/_follower.bot/
 --
 Equipe
